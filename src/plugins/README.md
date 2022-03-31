@@ -1,19 +1,3 @@
-# el-table-header-filter
-> A Vue.js Plugin
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
 ## How to Use el-table-header-filter
   
   ### 1.安装el-table-header-filter
